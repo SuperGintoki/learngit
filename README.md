@@ -25,3 +25,6 @@ Difficulty: easy
 5.
 [Longest-Common-Prefix:](https://github.com/SuperGintoki/practice/blob/master/LongestCommonPrefix.html)
 </br>
+6.
+[vaild-parentheses1:](https://github.com/SuperGintoki/practice/blob/master/vaildParentheses1.html)
+</br>
